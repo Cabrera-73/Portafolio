@@ -1,0 +1,2 @@
+# portafolio
+*IMPORTANT* Esta pagina no contiene el responsive, asi que en telefonos, tablets e inclusive algunos navegadores no se podra ver de la mejor manera. *DESCRIPTION* Esta es mi primera página web, la cual hice con un curso de udemy en el cual llevo el 20% de realización. Poco a poco empezare hacer la pagina responsive como tambien agregare o quitare funciones para poder terminar mi portafolio de la mejor manera :).
